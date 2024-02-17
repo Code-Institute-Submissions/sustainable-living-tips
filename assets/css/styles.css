@@ -34,3 +34,22 @@ nav ul {
     list-style-type: none;
     padding: 0;
 }
+
+nav ul li {
+    display: flex;
+    flex-direction: column;
+    margin: 1px;
+}
+
+nav ul:hover li:hover {
+    
+    background-color: limegreen;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:white;
+    margin: auto;
+    font-weight: bolder;
+   
+}
