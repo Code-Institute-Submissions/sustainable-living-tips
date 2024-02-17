@@ -21,9 +21,10 @@ header h1 {
 
 }
 
-#site-title{
+header h1 a {
+
     color:limegreen;
-    text-decoration: none;
+    text-decoration:none;
 }
 .read-more{
     color:lime;
@@ -104,4 +105,103 @@ nav li{
     flex-direction: column;
     align-items: center;
     text-align: center;
+}
+
+
+.about-image, .about-text h3 p{
+    max-width: 100%;
+   }
+
+
+/* Styles for the contact section on mobile view */
+
+#contact{
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:darkseagreen;
+}
+
+.contact-text, .contact-form h3 p{
+    max-width: 100%;
+   }
+
+section {
+    margin-bottom: 25px;
+}
+
+/* Style for form fields */
+
+input{
+    width: 200px;
+    padding:10px;
+    border-style: groove;
+    margin: 10px;
+}
+
+textarea{
+    width:300px;
+    height: 200px;
+    padding:10px;
+    border-style: groove;
+    margin: 10px;
+}
+
+.form-submit{
+    width: 150px;
+    height:40px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: green;
+    color:white;
+    margin-bottom: 20px;
+    border-color:white;
+}
+
+
+/* style for the website footer */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* Media Query For Desktop Devices */
+
+@media only screen and (min-width: 992px) {
+
+    main {
+        padding: 0;
+    }
+    header{
+        display: flex;
+        flex-direction: row;
+        background-color: lavender;
+        height: 35px;
+        border-style: groove;
+    }
+    header h1{
+      margin-left: 2px;
+        font-size: 22px;
+    }
+    nav ul li {
+        display: inline;
+        margin: 5px;
+        background-color: lavender;
+    }
+
+    nav ul li a {
+        color: darkslategrey; 
+        text-decoration: underline;    
+    }
+
+    nav li:hover a:hover{
+        color:white;
+    }
+
 }
