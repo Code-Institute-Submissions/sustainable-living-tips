@@ -59,6 +59,7 @@ nav li{
     background-color: black;
     height: 40px;
     border-style: solid;
+
 }
 
 
@@ -200,6 +201,9 @@ footer {
         text-decoration: underline;    
     }
 
+    nav li{
+        border-style:none;
+    }
     nav li:hover a:hover{
         color:white;
     }
@@ -213,7 +217,7 @@ footer {
         text-align: center;
         margin-right:20px;
         margin-bottom: 25px;
-        width: 700px;
+        
     }
     
     #featured{
@@ -241,4 +245,11 @@ footer {
         margin-bottom: 250px;
        
     }
+
+    footer{
+        position: relative;
+        top: 100px;
+    }
+
 }
+
