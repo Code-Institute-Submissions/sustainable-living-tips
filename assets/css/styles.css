@@ -1,0 +1,22 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:100%;
+    margin: 0 auto;
+    padding: 0;
+}
+main {
+    padding: 20px;
+}
+
+header {
+    padding: 10px;
+    margin: auto;
+}
+
+header h1 {
+    margin: auto;
+    color:limegreen;
+    text-align: center;
+    
+
+}
