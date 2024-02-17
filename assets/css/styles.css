@@ -203,5 +203,42 @@ footer {
     nav li:hover a:hover{
         color:white;
     }
+    #hero {
+        display: flex;
+        flex-direction: row;
+        margin:20px;
+    }
 
+    .hero-text{
+        text-align: center;
+        margin-right:20px;
+        margin-bottom: 25px;
+        width: 700px;
+    }
+    
+    #featured{
+        display: flex;
+        flex-direction: row;
+        height: 600px;
+    }
+
+    .article, .article-info h3 p{
+        max-width: 25%;
+        margin-left: 80px;
+       }
+
+
+    #about{
+        display: flex;
+        flex-direction: row;
+        margin-left: 70px;
+        
+    }
+
+    #about-text{
+        margin-left:25px;
+        text-align: center;
+        margin-bottom: 250px;
+       
+    }
 }
