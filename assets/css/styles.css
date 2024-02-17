@@ -160,7 +160,7 @@ textarea{
     margin-bottom: 20px;
     border-color:white;
 }
-article{
+article, #contact-info{
     padding: 20px;
     border: 1px solid #cccccc;
     display: flex;
