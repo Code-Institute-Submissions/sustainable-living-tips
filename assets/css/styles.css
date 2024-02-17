@@ -160,8 +160,20 @@ textarea{
     margin-bottom: 20px;
     border-color:white;
 }
-
-
+article{
+    padding: 20px;
+    border: 1px solid #cccccc;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    max-width: 500px;
+}
+article h2 p{
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+}
 /* style for the website footer */
 
 footer {
