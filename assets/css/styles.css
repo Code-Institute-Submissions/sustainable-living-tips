@@ -20,3 +20,17 @@ header h1 {
     
 
 }
+
+#site-title{
+    color:limegreen;
+    text-decoration: none;
+}
+.read-more{
+    color:lime;
+    text-decoration: none;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
