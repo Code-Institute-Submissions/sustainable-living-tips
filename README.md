@@ -3,7 +3,7 @@
 Sustainable Living Hub is a website that offers practical and useful tips to eco-conscious individuals. The website curently provides tips on three major sustainable living subjects: Waste Reduction Tips, Eco-friendly Products, and Home Improvement. Regardless of your level of experience with sustainability, this website offers 
 practical advice to reduce your environmental impact and encourage eco-friendly living. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsice Mockup](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/responsive-website.PNG)
 
 [View Live Site](https://irelandoracle1.github.io/sustainable-living-tips/)
 
@@ -18,7 +18,7 @@ The Sustainable Living Hub website's current features are shown below. It has be
   - Featured on all four pages the website, the full responsive navigation bar which includes links to the Home page, Waste Reduction Tips, Eco-Friendly Products, Home Improvement Tips and Contact Page. The Navigation Bar and links are similarin all the pages to ensure easy navigation to all the web pages.
   - This Navigation section helps the site user to easily navigate the different pages of the website in different devices seamlessly.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/navbar.PNG)
 
 - _The Hero Image Section_
 
