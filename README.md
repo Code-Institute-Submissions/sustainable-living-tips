@@ -108,7 +108,8 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://irelandoracle1.github.io/sustainable-living-tips/ 
+
 
 
 ## Credits 
@@ -120,10 +121,15 @@ You can break the credits section up into Content and Media, depending on what y
 ### Content 
 
 - The text contents used for sustainable living tips artcles were generated with [ChatGPT](https://chat.openai.com/)
-- Instructions on how to implement mobile first design where taken from [Browser Stack]( https://www.browserstack.com/guide/how-to-implement-mobile-first-design)    
+- Instructions on how to implement mobile first design where taken from [Browser Stack]( https://www.browserstack.com/guide/how-to-implement-mobile-first-design)   
+
+- Instructions on how to add favicon was taken from [W3schools](https://www.w3schools.com/html/html_favicon.asp)
 
 ### Media
 
 - The photos used for in this website were taken from [Pexels ](https://pexels.com/)
 
+- Site Favicon was generated with [Favicon.Io ](https://favicon.io/favicon-generator/)
+
+- Google Map was generated from [Google ](hhttps://www.google.com/maps/@53,-8,7z?entry=ttu)
 
