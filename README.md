@@ -25,34 +25,50 @@ The Sustainable Living Hub website's current features are shown below. It has be
   - Immediately after navigation section on the home page, is the hero image section that is divided into two columns. The first column contains text introduction of the website theme. While the hero image occupies the second column.
   - This section introduces the main theme of the website to ensure the site visitor quickly get a grasp of what the website is all about as quickly as possible.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Hero Image Section](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/hreo-section.PNG)
 
 - _Fetaured Articles Section_
 
   - Following the Hero Section on the landing page is the featured articles section which is showcases the sites major feaured articles with images and brief text excerpt with a read more link for details
   - This section basically displays the basic sustainable living tips covered by website for the user to choose which one to explore in more detail.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Featured Articles](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/featured-section.PNG)
 
 - _About Us section_
 
   - The Website Landing page also includes an About Us Section that is divided into two columns. One with an image and the other with text content.
   - This section gives the site visitor a brief background of the people behind the Sustainable Living Hub Website 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![About Section](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/about-section.PNG)
 
 - _The Contact Form Section_
 
   - The Home Page also features a contact form section which basically redirects the user to the main contact page. 
   - As form processing is beyond the scope of this project, the contact form only helps to redirect the site user to the 
   main contact details page.
+  
+![Contact Form Section](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/contact-section.PNG)
+
+- _Google Map Section_ 
+
+  - Featured  on the home page immediately after the contact form section is a Google Map of the designers address embeded with iframe  
+  - The Google Map is helpful in helping the site users easily locate the site owners address
+
+![Google Map](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/googlemap.PNG)
 
 - _The Footer Section_ 
 
   - Each of the four pages of the website contains a footer section  
   - The footer section contains the website Copyright information as well social media links
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/footer.PNG)
+
+- _Sustainable Living Tips Single Pages_ 
+
+  - The website features three single pages for the sustainable living tips: Waste Reduction Tips, Eco-friendly products and Home improvement tips   
+  - With these articles the site user can gain good knowledge for sustainable living
+
+![Single Article Page](https://github.com/Irelandoracle1/sustainable-living-tips/blob/main/assets/images/waste-reduction-page.PNG)
 
 
 ### Features Left to Implement
