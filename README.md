@@ -121,10 +121,9 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The text contents used for sustainable living tips artcles were generated with [ChatGPT](https://chat.openai.com/)
 - Instructions on how to implement mobile first design where taken from [Browser Stack]( https://www.browserstack.com/guide/how-to-implement-mobile-first-design)    
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
 - The photos used for in this website were taken from [Pexels ](https://pexels.com/)
-github.com
-Write to Emeke Odili
+
+
