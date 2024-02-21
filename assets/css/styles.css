@@ -245,7 +245,11 @@ footer {
         margin: 20px;
        
     }
+    
+    .main-image{
+        width:500px;
 
+    }
     
     #featured{
         display: flex;
