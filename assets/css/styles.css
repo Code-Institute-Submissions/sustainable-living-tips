@@ -71,14 +71,16 @@ nav li{
     max-width: 100%;
 }
 
-.hero-text h2 p {
+.hero-text h2 p a {
     margin-bottom: 20px; 
     max-width: 100%;
+    margin-right: 10px;
 }
 
 .hero-image img {
     max-width: 100%;
     height: auto;
+    margin-top: 20px;
 }
 #hero-contact{
     width: 220px;
@@ -89,6 +91,7 @@ nav li{
     padding: 10px;
     border-radius: 10px;
     text-decoration: none;
+    margin-bottom: 20px;
 }
 
 #hero-contact:hover{
