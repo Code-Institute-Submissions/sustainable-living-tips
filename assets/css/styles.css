@@ -80,6 +80,20 @@ nav li{
     max-width: 100%;
     height: auto;
 }
+#hero-contact{
+    width: 220px;
+    height:50px;
+    background-color: green;
+    color: white;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+#hero-contact:hover{
+    background-color: seagreen;
+}
 
 /* Styles for the featured image section on mobile view */
 
