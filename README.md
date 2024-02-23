@@ -79,25 +79,19 @@ The Sustainable Living Hub website's current features are shown below. It has be
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+This website project has been thoroughly tested in browser as well on mobile devices to ensure it works as expected  and also fully responsive. And from tests I am confident that this website works it should and also fully responsive in all popular devices, including, Desktop, Tablet and Mobile Phones.
 
 
 ### Validator Testing 
 
 - HTML
-  - Apart from the third party iframe code from Google Map, No HTML errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Firelandoracle1.github.io%2Fsustainable-living-tips%2F)
+  -  No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Firelandoracle1.github.io%2Fsustainable-living-tips%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Firelandoracle1.github.io%2Fsustainable-living-tips%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-An attribute error on the was raised during the official W3C Validator test 
+There is  is no known unfixed bug in this project
 
 ## Deployment
 
@@ -114,9 +108,7 @@ The live link can be found here - https://irelandoracle1.github.io/sustainable-l
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+While developing this website, some third party resources were consulted and used. And all the third party resources used has been properly and duly referenced under the headings below.
 
 ### Content 
 
