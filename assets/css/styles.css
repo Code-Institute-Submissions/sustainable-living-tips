@@ -248,7 +248,7 @@ footer {
     }
 
     .hero-text{
-        flex:1
+        flex:1;
         text-align: center;
         margin-right:100px;
         margin-bottom: 25px;   
